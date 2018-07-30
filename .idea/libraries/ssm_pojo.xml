@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="ssm_pojo">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../ssm_parent/ssm_pojo" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../ssm_parent/ssm_pojo/src/main/java" />
+    </SOURCES>
+  </library>
+</component>
